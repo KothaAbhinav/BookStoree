@@ -18,11 +18,11 @@
       "function": {
         "processPayment": {
           "deploymentBucketName": "amplify-mybookstore-prod-39580-deployment",
-          "s3Key": "amplify-builds/processPayment-756938694c53704a7268-build.zip"
+          "s3Key": "amplify-builds/processPayment-516f726a754e5976314e-build.zip"
         },
         "createOrder": {
           "deploymentBucketName": "amplify-mybookstore-prod-39580-deployment",
-          "s3Key": "amplify-builds/createOrder-3239504f652f56477158-build.zip"
+          "s3Key": "amplify-builds/createOrder-63426e35556471434146-build.zip"
         }
       },
       "storage": {
