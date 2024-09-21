@@ -1,0 +1,26 @@
+https://github.com/mjzone/bookstore-v2.git
+
+npm i -g @aws-amplify/cli@10.5.2
+
+Error :(Open Windows Powershell) : https://youtu.be/iDHKih88yOE?feature=shared
+1. Get-ExecutionPolicy -List
+2. Set-ExecutionPolicy Unrestricted
+3. Set-ExecutionPolicy Unrestricted -Force
+
+
+
+
+npm i -g @aws-amplify/cli@4.24
+
+
+amplify configure
+amplify init
+amplify add auth
+amplify add storage
+amplify add function
+amplify add function
+amplify add api
+
+
+
+description: `Order ${new Date()} by ${username} with ${email} email`
