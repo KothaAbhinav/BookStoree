@@ -18,7 +18,7 @@
       "function": {
         "processPayment": {
           "deploymentBucketName": "amplify-mybookstore-prod-39580-deployment",
-          "s3Key": "amplify-builds/processPayment-516f726a754e5976314e-build.zip"
+          "s3Key": "amplify-builds/processPayment-695462644b7a2b476f55-build.zip"
         },
         "createOrder": {
           "deploymentBucketName": "amplify-mybookstore-prod-39580-deployment",
