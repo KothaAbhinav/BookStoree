@@ -16,7 +16,7 @@ import Admin from './pages/Admin';
 import Header from "./components/Header"
 
 // Amplify Configurations
-import awsconfig from "./aws-exports";
+import awsExports from "./aws-exports";
 Amplify.configure(awsExports);
 
 
